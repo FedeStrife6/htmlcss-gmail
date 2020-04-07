@@ -1,0 +1,66 @@
+/* Regole Generali */
+body {
+  background-image: url("../img/scrivania-legno.jpg");
+}
+.main-wrapper {
+  width: 50%;
+  margin: 0px auto;
+}
+/* Fine Regole Generali */
+
+/* Regole Header */
+.header {
+  color: white;
+
+}
+.header .top-header .logo {
+  height: 100px;
+  vertical-align: middle;
+}
+.header .top-header .logo-text {
+  height: 100px;
+  font-size: 25px;
+}
+.header hr {
+  margin-top: 0;
+}
+.header .bottom-header .counter {
+  margin : 10px ;
+  font-size: 20px;
+  line-height: 50px;
+}
+.header .bottom-header .counter .number {
+  background: orange;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 80%;
+  padding: 10px;
+}
+/* Fine Regole Header */
+
+.content .email {
+  background-color: lightgray:
+  padding: 3px;
+  border: 1px solid black;
+}
+.content .read {
+  background-color: white;
+}
+.content .email .email-text {
+  color: gray;
+}
+
+.footer p {
+  color: white;
+  font-style: italic;
+  text-align: center;
+}
+
+.company {
+  font-style: normal;
+  font-size: 25px;
+  font-weight: bold;
+}
